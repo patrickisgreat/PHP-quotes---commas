@@ -1,3 +1,5 @@
+// @author patrick bennett
+
 <?php
   $fh = fopen("queryNow.txt", "r");
 

@@ -1,0 +1,6 @@
+This is a simple PHP script that takes a text file delimited by returns, wraps each line in quotes, and ends each line with a comma.
+
+just drop your text file in the web directory where this script will run, replace 'queryNow.txt' with the name of your text file, and run the script in the browser.
+
+ENJOY!
+
